@@ -1,2 +1,7 @@
 # Hello-World
-It's a new begin
+
+Hi,guys!
+
+Candice here,I like Front-end web development. 
+
+
